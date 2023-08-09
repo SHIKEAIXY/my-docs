@@ -1,0 +1,1 @@
+export const sidebarData = {"/":["",{"text":"部署前提","prefix":"deploy/","collapsible":true,"icon":"laptop-code","children":["3pull","4run"]},{"text":"功能列表","prefix":"demo/","collapsible":true,"icon":"laptop-code","children":["page","1page","2page","3page","4page","5page","6page","7page","8page","9page"]}]};

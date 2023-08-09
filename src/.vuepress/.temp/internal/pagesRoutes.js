@@ -1,0 +1,18 @@
+export const pagesRoutes = [
+  ["v-8daa1a0e","/",{"y":"h","t":"脆脆鲨插件","i":"home"},["/README.md"]],
+  ["v-3c3cba2c","/demo/1page.html",{"y":"a","t":"打人","i":"fa fa-life-bouy","O":3},[":md"]],
+  ["v-30862b4b","/demo/2page.html",{"y":"a","t":"骂人","i":"fa fa-life-bouy","O":3},[":md"]],
+  ["v-24cf9c6a","/demo/3page.html",{"y":"a","t":"群撤回","i":"fa fa-life-bouy","O":4},[":md"]],
+  ["v-19190d89","/demo/4page.html",{"y":"a","t":"拉黑","i":"fa fa-life-bouy","O":5},[":md"]],
+  ["v-0d627ea8","/demo/5page.html",{"y":"a","t":"插件禁用","i":"fa fa-life-bouy","O":6},[":md"]],
+  ["v-01abefc7","/demo/6page.html",{"y":"a","t":"插件白名单","i":"fa fa-life-bouy","O":7},[":md"]],
+  ["v-14153e34","/demo/7page.html",{"y":"a","t":"扩展壁纸","i":"fa fa-life-bouy","O":8},[":md"]],
+  ["v-2b825bf6","/demo/8page.html",{"y":"a","t":"表情包制作","i":"fa fa-life-bouy","O":9},[":md"]],
+  ["v-42ef79b8","/demo/9page.html",{"y":"a","t":"脆脆鲨插件管理","i":"fa fa-life-bouy","O":10},[":md"]],
+  ["v-6e19edb7","/demo/page.html",{"y":"a","t":"骰子","i":"fa fa-life-bouy","O":1},[":md"]],
+  ["v-1473bf53","/demo/",{"y":"a","t":"功能列表","i":"laptop-code"},["/demo/README.md"]],
+  ["v-26981730","/deploy/3pull.html",{"y":"a","t":"克隆仓库","i":"arrow-down"},[":md"]],
+  ["v-0a895333","/deploy/4run.html",{"y":"a","t":"重启机器人","i":"info"},[":md"]],
+  ["v-72a9c1e2","/deploy/",{"y":"a","t":"部署前提","i":"laptop-code"},["/deploy/README.md"]],
+  ["v-3706649a","/404.html",{"y":"p","t":""},[]],
+]
